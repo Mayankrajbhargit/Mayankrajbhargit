@@ -1,16 +1,38 @@
 ## Hi there 👋
+🎓 B.Tech CSE (AI & ML) Student
+💻 Learning, building, and experimenting with technology.
 
-<!--
-**Mayankrajbhargit/Mayankrajbhargit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Working On
+  🧠 Artificial Intelligence & Machine Learning
+  ☕ DSA with Java
+  🐍 Python for AI/ML
+  🌐 Web Development
+  🛠️ Building real-world projects
+🧰 Tech Stack
 
-Here are some ideas to get you started:
+   Languages
+   Python Java C JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   AI / ML
+   NumPy Pandas Scikit-learn LLMs RAG
+
+   Web
+   HTML CSS JavaScript React
+
+   Tools
+   Git GitHub VS Code DaVinci Resolve
+
+📌 Featured Project
+
+Sangam
+A digital platform designed to crowdsource societal challenges and facilitate collaborative problem solving through universities and industry partnerships.
+
+📈 Currently Learning
+DSA → Java
+Python → AI/ML
+AI/ML → LLMs → RAG
+Projects → Real-world applications
+🎯 Goal
+
+Build useful AI-powered products, become a strong AI/ML Engineer, and keep learning by building.
+
